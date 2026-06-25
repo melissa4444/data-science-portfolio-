@@ -1,6 +1,10 @@
 # Data-Science-Portfolio
 Portfolio of applied data science and ML projects. Actively updated.
 
+| Projects | Skills | Status |
+| --- | --- | --- | 
+| [Iris Classification](./iris_classification/) | Python, pandas, sklearn, Random Forest | ✅ Complete |
+
 ## Projects
 
 ### Iris Species Classification 

@@ -1,4 +1,4 @@
-# Data-Science-Portfolio-
+# Data-Science-Portfolio
 Portfolio of applied data science and ML projects. Actively updated.
 
 ## Projects
